@@ -1,14 +1,19 @@
 {
   "name": "scroll-hero",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
+  "homepage": "https://vtripathi0.github.io/scroll-hero-animation",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "eslint"
+    "lint": "eslint",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d out"
   },
   "dependencies": {
+    "gh-pages": "^6.3.0",
+    "gsap": "^3.14.2",
     "next": "16.1.6",
     "react": "19.2.3",
     "react-dom": "19.2.3"
