@@ -1,6 +1,6 @@
 1:"$Sreact.fragment"
-2:I[92349,["/scroll-hero-animation/_next/static/chunks/4b2b9334aff257cc.js"],"default"]
-3:I[97367,["/scroll-hero-animation/_next/static/chunks/2f236954d6a65e12.js"],"OutletBoundary"]
+2:I[92349,["/_next/static/chunks/6770c09ea80f359d.js"],"default"]
+3:I[97367,["/_next/static/chunks/2f236954d6a65e12.js"],"OutletBoundary"]
 4:"$Sreact.suspense"
-0:{"buildId":"Ghu-FgOh3kU6Z5jWMXl8-","rsc":["$","$1","c",{"children":[[["$","$L2",null,{}],["$","section",null,{"className":"h-[200vh] bg-neutral-900 flex items-center justify-center text-white","children":"Scroll Down"}]],[["$","script","script-0",{"src":"/scroll-hero-animation/_next/static/chunks/4b2b9334aff257cc.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+0:{"buildId":"j-CzVR478DpvEgsmb_d6Y","rsc":["$","$1","c",{"children":[[["$","$L2",null,{}],["$","section",null,{"className":"h-[200vh] bg-neutral-900 flex items-center justify-center text-white","children":"Scroll Down"}]],[["$","script","script-0",{"src":"/_next/static/chunks/6770c09ea80f359d.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
 5:null
