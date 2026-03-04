@@ -2,7 +2,7 @@
   "name": "scroll-hero",
   "version": "0.1.0",
   "private": false,
-  "homepage": "https://vtripathi0.github.io/scroll-hero-animation",
+  "homepage": "https://vtripathi0.github.io",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
